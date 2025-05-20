@@ -24,6 +24,5 @@ A simple, responsive, and intuitive task manager app built using HTML, CSS, and 
 git clone https://github.com/SurajK13170/daily-planner-app
 cd daily-planner-app
 
-### 2. Live Link
-```bash
 Live : https://splendorous-tanuki-03b5a4.netlify.app/
+
