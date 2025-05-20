@@ -21,5 +21,5 @@ A simple, responsive, and intuitive task manager app built using HTML, CSS, and 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/daily-planner-app.git
+git clone https://github.com/SurajK13170/daily-planner-app
 cd daily-planner-app
